@@ -1,0 +1,2 @@
+# theRotten_toy_privateGithub
+一个私有的github，我们每个人都可以拥有它，我们也不必去为它的会员付费。
